@@ -1,6 +1,10 @@
 # Login and Signup using firebase authentication.
 
 
+
+![header image](https://github.com/DivyankOjha/LoginSIgnup-using-firebase-auth/blob/master/Screenshot%20(1).png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
 
 ## Development server
